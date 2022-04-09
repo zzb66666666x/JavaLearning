@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "johnjacobkenny",
+      "name": "Kenny John Jacob",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19240564?v=4",
+      "profile": "https://kennyj.me/",
+      "contributions": [
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "abstract-interface-example",
+  "projectOwner": "johnjacobkenny",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
