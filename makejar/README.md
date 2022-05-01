@@ -45,7 +45,7 @@ m: manifest (the manifest file you should specify)
 in build-jar folder, run
 
 ```
-java -jar test.java
+java -jar test.jar
 ```
 
 **output test.jar structure**
